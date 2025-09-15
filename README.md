@@ -1,2 +1,8 @@
-# c2c-elite101-chatbot
-An assignment for Code2College I have to make public. Will be deleted/privated when i'm done with it.
+# Introduction
+This is a repository created by *Hamid*.
+
+## Usage
+Run this command to execute the application:
+`python filename.py`
+
+<sup>A temporary "project" made for Code2College.</sup>
