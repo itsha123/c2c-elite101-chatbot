@@ -1,13 +1,9 @@
 name = input("What is your name? ")
-age = int(input("What is your age? "))
-print(f"Welcome {name}! How can I help you? ")
+print(f"Welcome to the DMV Services Chatbot, {name}!")
 while True:
-    menuOption = int(input("""
-    1. Placeholder
-    2. Placeholder
-    3. Placeholder
-    4. Exit
-    """))
-    if menuOption == 4:
-        print("Goodbye!")
+    user_input = input("Would you like to register a vehicle? (yes/no) ")
+    if user_input.lower() == "no":
+        print("Sorry, this chatbot only supports vehicle registration. Have a nice day!")
         break
+    else:
+        print("Invalid input. Please enter 'yes' or 'no'.")
