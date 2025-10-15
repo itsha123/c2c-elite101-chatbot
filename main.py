@@ -12,3 +12,15 @@ while True:
     
     vehicleIdentificationNumber = input("Please enter your Vehicle Identification Number (VIN): ")
     
+    carMake = input("Please enter your car's make: ")
+    carModel = input("Please enter your car's model: ")
+    carYear = input("Please enter your car's year: ")
+
+    ownerSSN = input("Please enter your Social Security Number (SSN): ")
+    ownerDOB = input("Please enter your date of birth (mm/dd/yyyy): ")
+    ownerGender = input("Please enter your gender: ")
+    ownerAddress = input("Please enter your address: ")
+    ownerNumber = input("Please enter your phone number: ")
+    ownerEmail = input("Please enter your email address: ")
+
+    print("The cost is $15.00 to register a vehicle.")
