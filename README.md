@@ -5,4 +5,4 @@ This is a repository created by *Hamid*.
 Run this command to execute the application:
 `python main.py`
 
-<sup>A temporary "project" made for Code2College.</sup>
+<sup>A project made for Code2College.</sup>
